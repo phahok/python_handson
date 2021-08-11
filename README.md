@@ -1,4 +1,4 @@
-## HAN ON PYTHON e R
+## HANDS ON PYTHON e R
     Repo for study and hand-on python and R, SAS Viya and Open Tools
     
     Create By 
