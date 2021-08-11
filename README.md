@@ -1,7 +1,8 @@
 ## HAN ON PYTHON e R
     Repo for study and hand-on python and R, SAS Viya and Open Tools
+    
+    Create By Jose Renato Ferreira [@phahok], Alexandre Alvarez [@alvarezstatistic]
 
-#
 ## Cronograma de Estudos
     1. Como usar Python ( Cloud e Local ) 
     2. Usando Collab, R-Studio, 
@@ -11,3 +12,6 @@
     6. Aplicação e Análise Profissional de Modelos
     7. Análise Final com Estudos produção de modelos
     8. Pipeline DataOps, usando Tools DevOps 
+
+## Comandos e anotações 
+    http://dontpad.com/hands_on_phyton_e_r
