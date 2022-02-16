@@ -2,7 +2,7 @@
     Repo for study and hand-on python and R, SAS Viya and Open Tools
     
     Create By 
-    Jose Renato Ferreira    [ https://github.com/phahok ]               DevOps Master | DataOps | SAS Analytics Solutions
+    Jose Renato Ferreira    [ https://github.com/phahok ]               DevOps Master | MLOps | SAS Analytics Solutions
     Alexandre Alvarez       [ https://github.com/alvarezstatistic ]     Matemático | Estatístico | SAS Analytics Solutions
 
 ## Cronograma de Estudos
