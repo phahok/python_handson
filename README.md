@@ -1,9 +1,9 @@
 ## HANDS ON PYTHON e R
-    Repo for study and hand-on python and R, SAS Viya and Open Tools
+    Repo for study and hand-on python and R, SAS and Open Tools
     
     Create By 
-    Jose Renato Ferreira    [ https://github.com/phahok ]               SRE DevOps | MLOps | SAS Analytics Solutions
-    Alexandre Alvarez       [ https://github.com/alvarezstatistic ]     Matemático | Estatístico | Data Science | SAS Solutions
+    Jose Renato Ferreira    [ https://github.com/phahok ]               SRE / DevOps | MLOps | Cloud Solutions
+    Alexandre Alvarez       [ https://github.com/alvarezstatistic ]     Matemático | Estatístico | Data Science
 
 ## Cronograma de Estudos
     1. Como usar Python ( Cloud e Local ) 
