@@ -3,7 +3,7 @@
     
     Create By 
     Jose Renato Ferreira    [ https://github.com/phahok ]               SRE DevOps | MLOps | SAS Analytics Solutions
-    Alexandre Alvarez       [ https://github.com/alvarezstatistic ]     Matemático | Estatístico | SAS Analytics Solutions
+    Alexandre Alvarez       [ https://github.com/alvarezstatistic ]     Matemático | Estatístico | Data Science | SAS Solutions
 
 ## Cronograma de Estudos
     1. Como usar Python ( Cloud e Local ) 
