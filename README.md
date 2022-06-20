@@ -13,7 +13,8 @@
     5. Estudos Estatísticos e Rede Neural
     6. Aplicação e Análise Profissional de Modelos
     7. Análise Final com Estudos produção de modelos
-    8. Pipeline DataOps, usando Tools DevOps 
+    8. MLOps com modelos de ML e tabelas de IA.
+    9. Pipeline DataOps, usando Tools DevOps 
 
 ## Comandos e anotações temporárias
     http://dontpad.com/hands_on_phyton_e_r
